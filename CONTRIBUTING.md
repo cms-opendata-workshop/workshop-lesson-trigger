@@ -47,8 +47,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change this lesson,
-    please work in <https://github.com/CMSDAS/FIXME>,
-    which can be viewed at <https://cmsdas.github.io/FIXME>.
+    please work in <https://github.com/cms-opendata-workshop/workshop-lesson-trigger>,
+    which can be viewed at <https://cms-opendata-workshop.github.io/workshop-lesson-trigger/>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/cmsdas/lesson-example>,
